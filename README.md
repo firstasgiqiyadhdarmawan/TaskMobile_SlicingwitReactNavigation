@@ -1,1 +1,0 @@
-# TaskMobile_SlicingwitReactNavigation
